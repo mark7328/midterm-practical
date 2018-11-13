@@ -1,10 +1,19 @@
 #wrapper{
     width: 960px;
-    background-color: antiquewhite;
 }
 #header{
     line-height: 135px;
     height: 135px;
+}
+#footer{
+    background-color: black;
+    color: white;
+    height: 100px;
+}
+#content{
+    background-image: url("../images/4x4.jpg");
+    background-size: cover;
+    height: 560px;
 }
 .biggr{
     width: 593px;
@@ -28,6 +37,38 @@
 .clearmarg{
     margin: 0px;
 }
-.textalign{
+.textalignr{
     text-align: right;
+}
+.w480{
+    width: 480px;
+}
+.textalignl{
+    text-align: left;
+}
+.textalignc{
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.h50{
+    height: 50px;
+}
+.floatright{
+    float: right;
+}
+.grey{
+    color: gray;
+}
+.blue{
+    color: blue;
+}
+.pad{
+    padding-top: 40px;
+    padding-bottom: 50px;
 }
