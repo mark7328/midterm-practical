@@ -15,6 +15,9 @@
     background-size: cover;
     height: 560px;
 }
+#mountains{
+    border: 1px black solid;
+}
 .biggr{
     width: 593px;
 }
@@ -71,4 +74,27 @@ a:hover {
 .pad{
     padding-top: 40px;
     padding-bottom: 50px;
+}
+.contentMargin {
+    margin-left: 31px;
+    margin-right: 31px;}
+.thinBorder {
+    border: 1px black solid;
+}
+#sideCard {
+    padding: 10px;
+}
+.contentMargin {
+    margin-left: 31px;
+    margin-right: 31px;
+    margin-top: 60px;
+}
+.contentText {
+    margin-left: 31px;
+}
+.clearfix{
+    clear: both;
+}
+.margin{
+    margin-top: 600px;
 }
