@@ -1,0 +1,33 @@
+#wrapper{
+    width: 960px;
+    background-color: antiquewhite;
+}
+#header{
+    line-height: 135px;
+    height: 135px;
+}
+.biggr{
+    width: 593px;
+}
+.smallgr{
+    width: 366px;
+}
+.margincenter{
+    margin-left: auto;
+    margin-right: auto;
+}
+.inline{
+    display: inline;
+}
+.floatleft{
+    float: left;
+}
+.clearpad{
+    padding: 0px;
+}
+.clearmarg{
+    margin: 0px;
+}
+.textalign{
+    text-align: right;
+}
